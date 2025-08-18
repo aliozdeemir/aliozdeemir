@@ -57,8 +57,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Connect with Me
-- Email: **aoz.demir@outlook.com**
+## 📫 Connect with Me  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ali%20Özdemir-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aoz-demir)](https://www.linkedin.com/in/aoz-demir)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliozdeemir)  
+📧 Email: aoz.demir@outlook.com
 
 ---
 ⭐️ From [aliozdeemir](https://github.com/aliozdeemir)  
