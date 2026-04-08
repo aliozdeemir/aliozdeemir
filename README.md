@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋, I'm Ali Özdemir
 
-🚀 I'm a Flutter Developer, Fitness Coach, and Entrepreneur.  
-💻 Currently focusing on **Flutter & Dart** to build mobile apps.  
-🎯 Goal: Build a strong portfolio and work as a freelancer on platforms like Upwork.  
+🚀 I'm a Flutter Developer focused on building modern mobile applications. 
+🧠 Also experienced in debugging, code analysis, and software development fundamentals  
+⚙️ Expanding my skills in JavaScript & TypeScript for full-stack and AI-related development
 
 ---
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
@@ -50,9 +52,11 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Projects
 - [🎓 GPA Calculator](https://github.com/aliozdeemir/gano-hesaplayici) – A GPA calculator app built with Flutter.
-- Flutter To-Do App
+- Flutter To-Do App [Progress]
 - Fitness Tracker App
 - E-commerce App
+
+🧩 Focus: Clean architecture, performance optimization, and scalable app design
 
 
 ---
